@@ -1,7 +1,7 @@
 /**
  * swap_int - Swap the value of the two intergers using pointer
  * @a: pointer
- * @B: pointer
+ * @b: pointer
  *
  * Return: nothing
  */
